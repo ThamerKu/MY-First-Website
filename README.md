@@ -29,4 +29,4 @@ message.innerHTML = " Welcome to my website, "  + userInput.value;
     </script> 
 
 </body>
-</html>
+
